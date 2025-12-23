@@ -18,7 +18,7 @@ JS · Python · C/C++ · React · Node · MongoDB · Linux · Git
 ---
 
 📈 **Stats**
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=R1NCwasUnavailable&show_icons=true&theme=tokyonight)
 
 ---
 
