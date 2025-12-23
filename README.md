@@ -1,18 +1,17 @@
 ### Hi, I’m R1NC 👋
 
 Computer Science undergrad.  
-Building things with **JavaScript**, **Python**, and a growing interest in **Machine Learning** and **systems**.
+Computer Science undergraduate working across software development, machine learning, and DevOps.
 
 ---
 
 🧰 **Stack**  
-JS · Python · C/C++ · React · Node · MongoDB · Linux · Git
+JS · Python · C/C++ · Java · React · Node · Bash · Git · SQL
 
 ---
 
 🧪 **Currently**
-- Learning ML fundamentals (math included)
-- Building full-stack projects
+- Building projects
 - Trying to write code future-me won’t hate
 
 ---
@@ -22,9 +21,8 @@ JS · Python · C/C++ · React · Node · MongoDB · Linux · Git
 
 ---
 
-📫 **Links**
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: https://linkedin.com/in/YOUR_LINK
+📫 **Links** 
+LinkedIn: https://www.linkedin.com/in/prince-nayak-9204b12b0/
 <!--
 **R1NCwasUnavailable/R1NCwasUnavailable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
