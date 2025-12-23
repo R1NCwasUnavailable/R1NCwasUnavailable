@@ -1,7 +1,6 @@
 ### Hi, I’m R1NC 👋
 
-Computer Science undergrad.  
-Computer Science undergraduate working across software development, machine learning, and DevOps.
+Computer Science undergrad. working across software development, machine learning, and DevOps.
 
 ---
 
