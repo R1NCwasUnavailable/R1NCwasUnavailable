@@ -6,6 +6,7 @@ Computer Science undergraduate working across software development, machine lear
 ---
 
 🧰 **Stack**  
+
 Python · C/C++ · Java · React · Node · Bash · Git · SQL
 
 ---
@@ -17,7 +18,8 @@ Python · C/C++ · Java · React · Node · Bash · Git · SQL
 ---
 
 📈 **Stats**
-(https://github-readme-stats.vercel.app/api?username=R1NCwasUnavailable&show_icons=true&theme=tokyonight)
+
+![stats](https://github-readme-stats.vercel.app/api?username=R1NCwasUnavailable&show_icons=true&theme=tokyonight)
 
 ---
 
