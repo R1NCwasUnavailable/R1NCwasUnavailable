@@ -1,98 +1,123 @@
-<h1>Prince Nayak</h1>
+<!-- header -->
+<div align="center">
 
-<p>
-CS undergraduate working across <strong>Web Development</strong>, 
-<strong>Data Science</strong>, and <strong>DevOps</strong>.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Prince+%F0%9F%91%8B;ML+%2B+backend+%2B+DevOps;always+building+something)](https://git.io/typing-svg)
 
-<hr/>
+<p>CS undergrad @ KIIT · ML systems · backend · open to internships with PPO</p>
 
-<h2>🧠 Languages</h2>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/portfolio-princenayakportfolio.netlify.app-58a6ff?style=flat-square&logo=firefox&logoColor=white)](https://princenayakportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-prince--nayak-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-nayak-9204b12b0)
+[![Email](https://img.shields.io/badge/email-prince.omm1802@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prince.omm1802@gmail.com)
 
-<hr/>
+</div>
 
-<h2>🌐 Web Development</h2>
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+---
 
-<hr/>
+### 🔭 currently
 
-<h2>📊 Data Science & Machine Learning</h2>
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+- building out my ML project portfolio — adding demo videos + dockerized deployments
+- learning about model serving and MLOps pipelines
+- open to **internships with PPO potential** (SWE / ML / backend)
 
-<hr/>
+---
 
-<h2>🗄️ Databases</h2>
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+### 🧠 projects
 
-<hr/>
+| project | what it does | stack | metrics |
+|---|---|---|---|
+| [**credit-default-model-analysis**](https://github.com/R1NCwasUnavailable/Credit-Default-Model-Analysis) | end-to-end ML pipeline on UCI credit card data — SMOTE, Optuna HPO, multi-classifier eval, SHAP explainability | `sklearn` `xgboost` `shap` `optuna` | ~91% AUC |
+| [**sentiment-analyzer**](https://github.com/R1NCwasUnavailable/Sentiment-Analyzer) | full-stack sentiment classification — TF-IDF LR model served via Flask REST API | `flask` `sklearn` `tfidf` `js` | 88% acc · 50k records |
+| [**customer-churn-predictor**](https://github.com/R1NCwasUnavailable/Customer-Churn-Predictor) | churn prediction pipeline on 7k+ Telco records, deployed as real-time Flask app | `flask` `sklearn` `pandas` | 81% acc |
 
-<h2>⚙️ DevOps, Cloud & Systems</h2>
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+---
 
-<hr/>
+### 🛠️ stack
 
-<h2>💻 Operating Systems</h2>
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+<div align="center">
 
-<hr/>
+**languages**
 
-<h2>🔗 Connect</h2>
-<p>
-<a href="https://github.com/R1NCwasUnavailable" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,java,c,bash,html,css,sql&theme=dark)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/prince-nayak-9204b12b0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**ML / data**
 
-<a href="https://discord.com/users/805686193944526860" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=sklearn,opencv&theme=dark)](https://skillicons.dev)
+`pandas` `numpy` `scipy` `xgboost` `shap` `optuna` `matplotlib` `seaborn`
 
-<a href="https://www.reddit.com/user/Enigmatic_R1NC/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
+**web / backend**
 
-<a href="mailto:prince.omm1802@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind&theme=dark)](https://skillicons.dev)
 
+**databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)](https://skillicons.dev)
+`oracledb`
+
+**devops / cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,gcp,azure,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=R1NCwasUnavailable&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1NCwasUnavailable&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=R1NCwasUnavailable&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
+### 🐍 contribution graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/R1NCwasUnavailable/R1NCwasUnavailable/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<details>
+<summary><b>⚙️ set up the snake animation</b></summary>
+<br>
+
+Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # every sunday midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: R1NCwasUnavailable
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Snake → Run workflow** to trigger it once manually.
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=R1NCwasUnavailable&style=flat-square&color=58a6ff&label=profile+views" />
+</div>
