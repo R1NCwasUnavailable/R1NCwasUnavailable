@@ -6,13 +6,16 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 REQUIRED for pushing to output branch
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4   # ✅ updated
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -21,8 +24,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4   # ✅ modern replacement
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4   # ✅ updated
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
