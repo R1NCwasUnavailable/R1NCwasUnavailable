@@ -83,3 +83,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/R1NCwasUnavailable/R1NCwasUnavailable/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=R1NCwasUnavailable&style=flat-square&color=58a6ff&label=profile+views" />
+</div>
