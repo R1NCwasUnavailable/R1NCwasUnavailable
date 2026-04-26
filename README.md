@@ -81,7 +81,7 @@
 ### 🐍 contribution graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/R1NCwasUnavailable/R1NCwasUnavailable/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://r1ncwasunavailable.github.io/R1NCwasUnavailable/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
