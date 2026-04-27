@@ -25,16 +25,6 @@
 
 ---
 
-### 🧠 projects
-
-| project | what it does | stack | metrics |
-|---|---|---|---|
-| [**credit-default-model-analysis**](https://github.com/R1NCwasUnavailable/Credit-Default-Model-Analysis) | end-to-end ML pipeline — SMOTE, Optuna tuning, SHAP explainability | `sklearn` `xgboost` `shap` `optuna` | **~91% AUC** |
-| [**sentiment-analyzer**](https://github.com/R1NCwasUnavailable/Sentiment-Analyzer) | full-stack sentiment classification API | `flask` `sklearn` `tfidf` `js` | **88% acc · 50k records** |
-| [**customer-churn-predictor**](https://github.com/R1NCwasUnavailable/Customer-Churn-Predictor) | churn prediction pipeline + deployed Flask app | `flask` `sklearn` `pandas` | **81% acc** |
-
----
-
 ### 🛠️ stack
 
 <div align="center">
