@@ -1,7 +1,7 @@
 <!-- header -->
-<div align="center">
+<div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=hey%2C+I'm+Prince+%F0%9F%91%8B&repeat=false)](https://github.com/R1NCwasUnavailable)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=800&color=58A6FF&center=false&vCenter=false&width=700&lines=Hey%2C+I'm+Prince+%F0%9F%91%8B&repeat=false)](https://github.com/R1NCwasUnavailable)
 
 <p>
   <b>CS undergrad @ KIIT</b> · ML systems · backend engineering <br/>
