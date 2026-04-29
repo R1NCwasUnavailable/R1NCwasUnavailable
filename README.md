@@ -25,6 +25,19 @@
 
 ---
 
+### 📊 stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=R1NCwasUnavailable&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1NCwasUnavailable&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=R1NCwasUnavailable&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
 ### 🛠️ stack
 
 <div align="center">
@@ -55,19 +68,6 @@
 
 ---
 
-### 📊 stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=R1NCwasUnavailable&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1NCwasUnavailable&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=R1NCwasUnavailable&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
-
----
-#test
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=R1NCwasUnavailable&style=flat-square&color=58a6ff&label=profile+views" />
 </div>
