@@ -96,10 +96,6 @@ prince = {
 
 ![Snake animation](https://raw.githubusercontent.com/R1NCwasUnavailable/R1NCwasUnavailable/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
-> *To enable the snake: go to your profile repo → Actions → enable workflows → add the [snake workflow](https://github.com/Platane/snk)*
-
 ---
 
 <div align="center">
