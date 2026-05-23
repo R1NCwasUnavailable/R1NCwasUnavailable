@@ -69,10 +69,9 @@ prince = {
 
 | Project | Stack | What it does |
 |---|---|---|
-| [Credit-Default-Model-Analysis](https://github.com/R1NCwasUnavailable/Credit-Default-Model-Analysis) | Python · Scikit-learn · SHAP | ML research — predicting credit card defaults with full explainability pipeline |
-| [E-Commerce-Review-Intelligence-System](https://github.com/R1NCwasUnavailable/E-Commerce-Review-Intelligence-System) | Python | NLP-powered review analysis system for e-commerce platforms |
-| [SettleMint](https://github.com/R1NCwasUnavailable/SettleMint) | JavaScript | *(add a short description here)* |
-
+| [Credit-Default-Model-Analysis](https://github.com/R1NCwasUnavailable/Credit-Default-Model-Analysis) | Python · Scikit-learn · SHAP | ML research — predicting credit card defaults with full explainability pipeline. Benchmarks 18 classifiers on UCI dataset with SMOTE, RandomizedSearchCV & SHAP. |
+| [E-Commerce-Review-Intelligence-System](https://github.com/R1NCwasUnavailable/E-Commerce-Review-Intelligence-System) | Python · DistilBERT · React v19 · MongoDB | End-to-end MLOps pipeline for review ingestion, multi-label classification & summarization. Fine-tuned DistilBERT for ABSA (loss: 0.75 → 0.35). Active Learning flywheel — user corrections retrain the model continuously. |
+| [SettleMint](https://github.com/R1NCwasUnavailable/SettleMint) | TypeScript · Gemini 2.5 Flash | Group expense tracker with plain-language input. Gemini handles only intent parsing → structured JSON; all arithmetic is deterministic TypeScript. LLM never touches a number. Includes recursive debt simplification to minimize transactions. |
 ---
 
 ## 📊 GitHub Stats
